@@ -25,3 +25,12 @@ I think we are advanced with our plan. My plan for tommorow is to close the fron
 Oh, there is something more. I am thinking if i should add another column to check if the user has already submited the form, so it can not submit or change his questions anymore. If he came back to the same link he will be faced with a kindly reminder to get the hell out of there 😂.
 
 Why are u still reading this? 😂
+
+- Day 5 (Friday 8, July  2022)
+
+We saw that we had some problems 😟 with the sections and we did some small changes to the database. Then we strugle 😩 to create the query for the seeds. Then we strugle again 😩🔁 with asnwer submition because we could not use useQuery hook inside a function, but we finally solve it. It was raining 🌧️ outside so maybe that caused some issues 😂. Later in the evening we worked in backend part to add some more validation 👮.
+
+- Day 6 (Saturday 9, July  2022)
+
+Today was holiday 
+🏖️, but not for me. I love ❤ to code, so i did make some small changes to handle error messages beautifully and to reload data when the user came back 😎.
