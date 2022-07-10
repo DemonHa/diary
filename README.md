@@ -34,3 +34,7 @@ We saw that we had some problems 😟 with the sections and we did some small ch
 
 Today was holiday 
 🏖️, but not for me. I love ❤ to code, so i did make some small changes to handle error messages beautifully and to reload data when the user came back 😎.
+
+- Day 7 (Sunday 10, July 2022)
+
+Hello again 👋. It's late at night and i just finished the board creation route (frontend). Everything went great and i'm happy with the results. I'm not so happy with the code structure. It is just to get the job done but i think i will try to optimize it tommorow and split it in smaller chunks 😊. But i think i will 😴 first 😂.
