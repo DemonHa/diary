@@ -38,3 +38,15 @@ Today was holiday
 - Day 7 (Sunday 10, July 2022)
 
 Hello again 👋. It's late at night and i just finished the board creation route (frontend). Everything went great and i'm happy with the results. I'm not so happy with the code structure. It is just to get the job done but i think i will try to optimize it tommorow and split it in smaller chunks 😊. But i think i will 😴 first 😂.
+
+- Day 8 (Monday, 11 July 2022)
+
+Today was holiday 🏖️. I did not have much time to work on the project today because i was in my hometown. I only worked on the board creation part of the frontend. 🤐
+
+- Day 9 (Tuesday 12, July 2022)
+
+First day at office for the week. We worked a lot on the backoffice app. I worked mostly on the backend to handle board creation logic, survey creation logic and invitaions logic.
+
+- Day 10 (Wednesday 13, July 2022)
+
+Today we worked hard to add to redesign the home page and suveys creations route to make it looks nice for tommorow presentatio.
